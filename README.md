@@ -4,6 +4,14 @@
   <img src="https://raw.githubusercontent.com/marcosferrazdev/marcosferrazdev/main/assets/dashboard.png" width="100%" />
 </p>
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://www.betracker.com.br">
+    <img src="https://img.shields.io/badge/Access%20Platform-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About
