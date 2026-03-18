@@ -65,5 +65,5 @@ However, I’m happy to discuss architecture and implementation details.
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/seu-link  
+- LinkedIn: https://www.linkedin.com/in/marcos-ferraz-776137199/
 - Email: marcosvitorferraz4@gmail.com
