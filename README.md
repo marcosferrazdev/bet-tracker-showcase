@@ -17,7 +17,7 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/marcosferrazdev/marcosferrazdev/main/assets/demo.gif" width="100%" />
 </p>
 
 ---
